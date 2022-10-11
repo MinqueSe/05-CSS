@@ -1,0 +1,36 @@
+#backgraund-color {
+    background-color: white;
+    width: 50%;
+}
+
+#fondo {
+    background-color: aqua;
+}
+
+#imagen {
+    background-image: url(/assets/carpinchoberto.jpeg);
+    width: 50%;
+    color: white;
+}
+
+#color {
+    color: red;
+}
+
+#texto {
+    text-align: center;
+}
+#texto2 {
+    text-align: end;
+}
+#texto3 {
+    text-align: start;
+}
+#border {
+    border: solid;
+    width: 50%;
+}
+
+#borderco {
+    border-collapse: separate; 
+}
