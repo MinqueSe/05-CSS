@@ -26,11 +26,22 @@
 #texto3 {
     text-align: start;
 }
-#border {
+#border, td, tr {
     border: solid;
     width: 50%;
 }
 
-#borderco {
-    border-collapse: separate; 
+header {
+    border: solid;
+}
+table {
+    border-collapse: collapse;
+}
+#contenido {
+    display: flex;
+    justify-content: center;
+}
+footer {
+    border: solid;
+    width: 50%;
 }
